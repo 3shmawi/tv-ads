@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130994604981",
+    "project_id": "tv-ads-bf45e",
+    "storage_bucket": "tv-ads-bf45e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130994604981:android:4718fa48dbc96fafc4a7fc",
+        "android_client_info": {
+          "package_name": "com.ashmawi.tv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3zQbH6BtY80kgv4l-ij-AW6Grh9uIwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130994604981:android:8c2ff313d6c0972cc4a7fc",
+        "android_client_info": {
+          "package_name": "com.ashmawi.tv_ads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3zQbH6BtY80kgv4l-ij-AW6Grh9uIwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
