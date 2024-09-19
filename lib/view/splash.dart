@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'admin/login.dart';
+import 'package:tv_ads/view/tv/view.dart';
 
 class SplashView extends StatefulWidget {
   const SplashView({super.key});
@@ -16,7 +15,7 @@ class _SplashViewState extends State<SplashView> {
     Future.delayed(const Duration(seconds: 2), () {
       Navigator.of(context).pushAndRemoveUntil(
         MaterialPageRoute(
-          builder: (context) => LoginPage(),
+          builder: (context) => TvAdView(),
         ),
         (route) => false,
       );
